@@ -1,4 +1,0 @@
-%YAML:1.0
-weight: 1.
-minCoefficient: 1.
-SmoothingIterations: 30
