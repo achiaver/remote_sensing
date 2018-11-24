@@ -1,0 +1,13 @@
+%YAML:1.0
+weight: 1.
+maxSamples: 5000
+maxDepth: 25
+minSampleCount: 5
+regressionAccuracy: 0.
+useSurrogates: 0
+maxCategories: 20
+calcVarImportance: 0
+nactiveVars: 0
+maxNumTrees: 250
+forestAccuracy: 9.9999997764825821e-003
+termcritType: 3
